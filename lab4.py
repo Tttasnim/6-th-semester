@@ -21,3 +21,5 @@ elif purchases > 100:
 else:
     print("No discount")
     print("Total cost after discount ", purchases)
+
+#end
