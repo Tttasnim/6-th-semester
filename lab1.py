@@ -1,3 +1,4 @@
+#common code
 print(" show everything we type")
 print( )
 zafrin = "zafrin is a bad girl"
