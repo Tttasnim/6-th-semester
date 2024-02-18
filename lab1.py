@@ -26,6 +26,8 @@ print(x)
 print(y)
 
 x = 'awasome'
+
+#end
 def myfun():
     x = 'aa'
     print('python is '+x)
